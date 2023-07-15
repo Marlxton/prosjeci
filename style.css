@@ -7,13 +7,7 @@ body {
     background-color: rgb(139, 185, 185);
   }
 
-  img {
-    width: 200px;
-    height: 300px;
-    position: absolute;
-    opacity: 0.8;
-    
-  }
+
 
   .center {
     display: block;
